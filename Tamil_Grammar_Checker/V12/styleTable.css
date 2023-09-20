@@ -1,0 +1,86 @@
+/*Now the CSS*/
+* {margin: 0; padding: 0;}
+/*p {
+  margin-bottom: 0;
+  /*font-family: 'MyWebFont', Fallback, sans-serif;*/
+  /*font-size: 20px;
+  color: green;
+  letter-spacing: 0px;
+  text-shadow: 0px 0px green;}
+  
+  @font-face {
+  font-family: 'MyWebFont';
+  src: url('TAU-Marutham.ttf'); /* IE9 Compat Modes */
+  /*src: url('TAU-Marutham.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+     /*  url('TAU-Marutham.woff2') format('woff2'), /* Super Modern Browsers */
+     /*  url('TAU-Marutham.woff') format('woff'), /* Pretty Modern Browsers */
+     /*  url('TAU-Marutham.ttf')  format('truetype'), /* Safari, Android, iOS */
+     /*  url('webfont.svg#svgFontName') format('svg'); /* Legacy iOS */
+	 
+      
+/*}*/
+
+table, td, th {
+	margin: 0 auto;
+	-moz-border-radius: 5px;
+	border: 2px solid #ddd;
+	padding: 50px;
+	text-align: justify;
+}
+#cssTable td
+{
+    text-align: justify; 
+    vertical-align: middle;
+	padding: 8px;
+	font-size: 12.5px;
+}
+table { 
+	margin: 0 auto;
+	border-collapse: collapse;
+	-moz-border-radius: 5px;
+	border:none;
+	width: 80%;
+	}
+th {
+ background-color:bisque;
+ height: 50px;
+	text-align: center; 
+    vertical-align: middle;
+}
+th.foralign{
+	text-align: center; 
+    vertical-align: middle;
+	
+}
+td {
+ background-color:AliceBlue;
+vertical-align: text-top;
+font-size: 16px;
+word-wrap:break-word;
+}
+
+
+/*table {
+    border-collapse:separate;
+    border:solid black 1px;
+    border-radius:25px;
+    -moz-border-radius:6px;
+}
+
+td, th {
+    border-left:solid black 1px;
+    border-top:solid black 1px;
+}
+
+th {
+    background-color: AliceBlue;
+    border-top: none;
+}
+
+td:first-child, th:first-child {
+     border-left: none;
+}*/
+span {
+  color:red;
+ font-weight:bold;
+ }

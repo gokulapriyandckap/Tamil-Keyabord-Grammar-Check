@@ -1,0 +1,12 @@
+LICENSE
+README.md
+sandhichecker.sh
+setup.py
+tamil_sandhi_checker.egg-info/PKG-INFO
+tamil_sandhi_checker.egg-info/SOURCES.txt
+tamil_sandhi_checker.egg-info/dependency_links.txt
+tamil_sandhi_checker.egg-info/top_level.txt
+tamilsandhi/__init__.py
+tamilsandhi/__main__.py
+tamilsandhi/all-tamil-nouns.txt
+tamilsandhi/sandhi_checker.py

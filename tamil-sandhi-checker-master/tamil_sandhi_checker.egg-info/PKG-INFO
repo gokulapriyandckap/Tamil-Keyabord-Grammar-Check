@@ -1,0 +1,28 @@
+Metadata-Version: 2.1
+Name: tamil-sandhi-checker
+Version: 0.1
+Summary: Tamil word conjugation, sandhi rules checker
+Home-page: https://github.com/nithyadurai87/tamil-sandhi-checker
+Download-URL: https://github.com/nithyadurai87/tamil-sandhi-checker/archive/master.zip
+Author: Nithya Duraisamy, and other contributors
+Author-email: nithyadurai87@gmail.com
+License: GPL
+Platform: PC
+Platform: Linux
+Platform: Mac
+Classifier: Natural Language :: Tamil
+Classifier: Programming Language :: Python :: 2.6
+Classifier: Programming Language :: Python :: 2.7
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.2
+Classifier: Programming Language :: Python :: 3.3
+Classifier: Programming Language :: Python :: 3.4
+License-File: LICENSE
+
+# tamil-sandhi-checker
+[![Build Status](https://travis-ci.org/Ezhil-Language-Foundation/tamil-sandhi-checker.png)](https://travis-ci.org/Ezhil-Language-Foundation/tamil-sandhi-checker) 
+
+Tamil Sandhi Checker is a project created and maintained by Nithya Duraisamy, with contributions from Ezhil Language Foundation.
+
+It is distributed under terms of GNU GPLv3.
+
